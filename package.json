@@ -1,5 +1,5 @@
 {
-  "name": "@venuswku/dummy-repo",
+  "name": "@venuswku/github-packages",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/venuswku/dummy-repo"
+    "url": "https://github.com/venuswku/github-packages"
   },
   "author": "me",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/venuswku/dummy-repo/issues"
+    "url": "https://github.com/venuswku/github-packages/issues"
   },
-  "homepage": "https://github.com/venuswku/dummy-repo#readme"
+  "homepage": "https://github.com/venuswku/github-packages#readme"
 }
