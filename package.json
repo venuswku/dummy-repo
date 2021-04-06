@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/venuswku/dummy-repo/issues"
   },
-  "homepage": "https://github.com/venuswku/dummy-repo#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@venuswku"
-  }
+  "homepage": "https://github.com/venuswku/dummy-repo#readme"
 }
